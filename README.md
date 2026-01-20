@@ -27,7 +27,7 @@ This project is a basic HTML website that consists of a main index page and seve
 
 ## Live Preview
 
-
+https://abu091153-max.github.io/odin_recipe/
 
 ## Project Assignment
 
